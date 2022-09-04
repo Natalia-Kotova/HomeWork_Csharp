@@ -33,9 +33,9 @@
 // string n2 = Convert.ToString(n);
 // int size = 3;
 
-// int IndexThreeDigitOnTheRigt = size - 2;
+// int IndexTwoDigit = size - 2;
 
-// Console.WriteLine("вторая цифра -> " + n2[IndexThreeDigitOnTheRigt]);
+// Console.WriteLine("вторая цифра -> " + n2[IndexTwoDigit]);
 
 
 // Задача 13: Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
