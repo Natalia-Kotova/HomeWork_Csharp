@@ -73,17 +73,16 @@
 
 // bool Coordinate(double k1, double k2)
 // {
-//     bool coordinate = false;
 //     if(k1 != k2)
 //     {
-//         coordinate = true;
+//         return true;
 //     }
-//     return coordinate;
+//     return false;
 // }
 
 // if (Coordinate(k1, k2))
 // {
-//     Console.WriteLine($"прямые имеют точку пересечения ({х:f2} ; {y:f2})"); // :f2 - определям количество знаков после запятой
+//     Console.WriteLine($"прямые имеют точку пересечения ({х:f1} ; {y:f1})"); // :f2 - определям количество знаков после запятой
 // }
 // else
 // {
